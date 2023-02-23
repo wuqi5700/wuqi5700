@@ -3,7 +3,7 @@
 
 目前职业
 
-> Bug Bounty Hunter / 
+> Bug Bounty Hunter / Pentester
 
 学习方向
 
