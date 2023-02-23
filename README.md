@@ -3,7 +3,7 @@
 
 目前职业
 
-> Bug Bounty Hunter
+> Bug Bounty Hunter / 
 
 学习方向
 
